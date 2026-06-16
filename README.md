@@ -1,5 +1,22 @@
-# 💫 About Me:
-# Halo, Saya Lalu Muh. Harista Gunawan! 👋<br>### Full-Stack Developer & Tech Explorer<br><br>Saya adalah seorang Software Developer dengan mentalitas *tech generalist*. Saya memiliki rasa ingin tahu yang besar terhadap seluruh spektrum teknologi dan menolak untuk membatasi diri pada satu bidang saja. Bagi saya, menguasai berbagai pilar IT adalah kunci untuk menjadi seorang *Problem Solver* yang komprehensif di era modern.<br><br>---<br><br>### 🚀 Spektrum Keahlian Saya<br><br>Saya aktif mengeksplorasi dan mengintegrasikan berbagai disiplin ilmu IT ke dalam alur kerja saya:<br><br>- 🎨 **Design & UI/UX:** Merancang visual, *wireframing*, dan *prototyping* menggunakan **Figma** sebelum masuk ke tahap produksi.<br>- 💻 **Frontend Development:** Mengeksekusi tampilan antarmuka yang dinamis dan modern menggunakan **React** dan **Vite**.<br>- ⚙️ **Backend & Intelligent Systems:** Membangun logika sistem, API, dan Sistem Pakar (*Expert System*) menggunakan **Python (Flask)** serta sedang mendalami **PHP**.<br>- 📊 **Database & Architecture:** Merancang fondasi data yang kuat menggunakan **MySQL/PostgreSQL** serta menyusun dokumentasi teknis yang matang melalui **ERD** dan **Flowchart (Mermaid/Draw.io)**.<br><br>---<br><br>*“Saya percaya bahwa teknologi terbaik lahir dari pemahaman yang utuh—mulai dari desain visual, baris kode, arsitektur data, hingga bagaimana sistem tersebut menyelesaikan masalah nyata.”*
+# Halo, Saya Lalu Muh. Harista Gunawan! 👋
+### Full-Stack Developer & Tech Explorer
+
+Saya adalah seorang Software Developer dengan mentalitas *tech generalist*. Saya memiliki rasa ingin tahu yang besar terhadap seluruh spektrum teknologi dan menolak untuk membatasi diri pada satu bidang saja. Bagi saya, menguasai berbagai pilar IT adalah kunci untuk menjadi seorang *Problem Solver* yang komprehensif di era modern.
+
+---
+
+### 🚀 Spektrum Keahlian Saya
+
+Saya aktif mengeksplorasi dan mengintegrasikan berbagai disiplin ilmu IT ke dalam alur kerja saya:
+
+- 🎨 **Design & UI/UX:** Merancang visual, *wireframing*, dan *prototyping* menggunakan **Figma** sebelum masuk ke tahap produksi.
+- 💻 **Frontend Development:** Mengeksekusi tampilan antarmuka yang dinamis dan modern menggunakan **React** dan **Vite**.
+- ⚙️ **Backend & Intelligent Systems:** Membangun logika sistem, API, dan Sistem Pakar (*Expert System*) menggunakan **Python (Flask)** serta sedang mendalami **PHP**.
+- 📊 **Database & Architecture:** Merancang fondasi data yang kuat menggunakan **MySQL/PostgreSQL** serta menyusun dokumentasi teknis yang matang melalui **ERD** dan **Flowchart (Mermaid/Draw.io)**.
+
+---
+
+*“Saya percaya bahwa teknologi terbaik lahir dari pemahaman yang utuh—mulai dari desain visual, baris kode, arsitektur data, hingga bagaimana sistem tersebut menyelesaikan masalah nyata.”*
 
 
 ## 🌐 Socials:
